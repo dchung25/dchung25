@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Chung
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently learning Information Technology @ George Mason University
 - 📫 Reach me @ dchung25@gmu.edu
 
 <!---
